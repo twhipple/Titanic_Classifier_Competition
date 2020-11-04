@@ -1,7 +1,7 @@
 # Titanic_Classifier_Competition
 
 
-![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/master/Images/annie-spratt-r0vBUseBuYQ-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/main/Images/annie-spratt-r0vBUseBuYQ-unsplash.jpg)
 
 *Predicting survivors of the famous ship that hit an iceburg. Source: 'Annie Spratt', Unsplash.com*
 
@@ -17,7 +17,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others."
 
 
-![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/master/Images/SurvivedPclass.png)
+![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/main/Images/SurvivedPclass.png)
 
 *Stacked bar showing the survivors verses those who died based on passenger class.*
 
@@ -33,7 +33,7 @@ While there was some element of luck involved in surviving, it seems some groups
 * Built With, Contributors, Authors, Acknowledgments
 
 
-![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/master/Images/SurvivedSex.png)
+![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/main/Images/SurvivedSex.png)
 
 *Stacked bar showing how survivors compared to those who died - by gender.*
 
@@ -83,7 +83,7 @@ These are the models that I tried in this project:
 * Support Vector Model (SVC)
 
 
-![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/master/Images/cruise-ship-torli_roberts.jpg)
+![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/main/Images/cruise-ship-torli_roberts.jpg)
 
 *Hopefully cuise ships these days have the correct number of lifeboats! Source: Torli Roberts, Freeimages.com*
 
