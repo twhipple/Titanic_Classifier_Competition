@@ -1,9 +1,10 @@
 # Titanic_Classifier_Competition
 
 
-![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/wine-making-mirofoto.jpg)
+![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/master/Images/annie-spratt-r0vBUseBuYQ-unsplash.jpg)
 
-*Predicting the quality of wine through classification. Source: 'mirofoto', freeimages.com*
+*Predicting survivors of the famous ship that hit an iceburg. Source: 'Annie Spratt', Unsplash.com*
+
 
 ## Intro
 This is the basic model that I built for my first Kaggle Competition based on the data for the Titanic Machine Learning dataset.
@@ -15,9 +16,10 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others."
 
-![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/Alcohol-quality.png)
 
-*Alcohol seems to be related to the quality of wine.*
+![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/master/Images/SurvivedPclass.png)
+
+*Stacked bar showing the survivors verses those who died based on passenger class.*
 
 
 ## README Outline
@@ -31,9 +33,9 @@ While there was some element of luck involved in surviving, it seems some groups
 * Built With, Contributors, Authors, Acknowledgments
 
 
-![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/citric_acid_boxplot.png)
+![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/master/Images/SurvivedSex.png)
 
-*Citric Acid boxplot demonstrating the correlation with Quality and showing a few outliers.*
+*Stacked bar showing how survivors compared to those who died - by gender.*
 
 
 ## Repo Contents
@@ -81,7 +83,9 @@ These are the models that I tried in this project:
 * Support Vector Model (SVC)
 
 
-![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/Wine_heat_map.png)
+![](https://raw.githubusercontent.com/twhipple/Titanic_Classifier_Competition/master/Images/cruise-ship-torli_roberts.jpg)
+
+*Hopefully cuise ships these days have the correct number of lifeboats! Source: Torli Roberts, Freeimages.com*
 
 
 ## Conclusions
@@ -90,11 +94,6 @@ My Random Forest model had the best accuracy results.
 
 ## Future Work
 I could use Grid Search to modify the parameters and try improve the performance of my models. I also could use Cross Validation Score to assess the effectiveness of my model, particularly in order to avoid over-fitting.
-
-
-![](https://raw.githubusercontent.com/twhipple/Wine_Classification/master/Images/bottles-of-wine-carlos-sillero.jpg)
-
-*Which wine would you choose? Source: Carlos Sillero, freeimages.com*
 
 
 ## Built With:
